@@ -5,6 +5,7 @@ Prepared by Haadiya Farhan | DecodeLabs Internship 2026 | Project 2
 What This Project Is About
 
 This project performs an Exploratory Data Analysis on a cleaned e-commerce sales dataset containing 1,200 orders and 14 columns. The goal was to understand customer purchasing behavior, identify revenue trends, detect outliers, and surface business insights using Python.
+
 ---
 
 Files in This Repository
