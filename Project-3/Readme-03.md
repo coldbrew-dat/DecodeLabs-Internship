@@ -32,7 +32,6 @@ The dataset was imported into PostgreSQL from a cleaned CSV file and analyzed us
 - COUNT()
 - SUM()
 - AVG()
-- HAVING
 
 ---
 
@@ -67,7 +66,6 @@ SQL_Data_Analysis_Project/
 ├── sales_data.csv
 ├── queries.sql
 ├── README.md
-└── screenshots/
 
 ---
 
@@ -75,6 +73,3 @@ SQL_Data_Analysis_Project/
 This project improved my understanding of SQL fundamentals and practical data analysis. It provided hands-on experience in querying structured datasets and extracting meaningful insights using PostgreSQL.
 
 ---
-
-## Author
-Haadiya
