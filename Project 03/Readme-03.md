@@ -32,7 +32,7 @@ The dataset was imported into PostgreSQL from a cleaned CSV file and analyzed us
 - COUNT()
 - SUM()
 - AVG()
-- HAVING
+
 
 ---
 
@@ -67,7 +67,7 @@ SQL_Data_Analysis_Project/
 ├── sales_data.csv
 ├── queries.sql
 ├── README.md
-└── screenshots/
+
 
 ---
 
@@ -76,5 +76,3 @@ This project improved my understanding of SQL fundamentals and practical data an
 
 ---
 
-## Author
-Haadiya
